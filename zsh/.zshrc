@@ -107,4 +107,10 @@ alias clr=clear
 alias ls=exa
 alias nano=micro
 alias cat=bat
-alias pacman="sudo powerpill"
+alias pac="sudo powerpill -S"
+
+alias untar="tar -zxvf"
+alias del="rm -rf"
+alias update="sudo powerpill -Syyu"
+alias gac="git add . && git commit -a -m "
+alias mkcd='foo(){ mkdir -p "$1"; cd "$1" }; foo '
