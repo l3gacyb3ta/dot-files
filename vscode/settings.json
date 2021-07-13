@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Dracula At Night",
+    "editor.inlineSuggest.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "crystal": false
+    },
+    "git.enableSmartCommit": true,
+    "editor.fontFamily": "'hack', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "terminal.integrated.fontFamily": "monospace",
+    "explorer.confirmDelete": false,
+    "[crystal]": {
+        "editor.defaultFormatter": "crystal-lang-tools.crystal-lang"
+    }
+}
