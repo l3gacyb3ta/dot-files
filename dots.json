@@ -1,1 +1,20 @@
-{"dots":[{"name":"zsh","loc":"/home/arc/.zshrc"},{"name":"environment.d","loc":"/home/arc/.config/environment.d/firefox.conf"},{"name":"vlc","loc":"/home/arc/.local/share/vlc/skyfire_v120.vlt"},{"name":"vscode","loc":"/home/arc/.config/Code - Insiders/User/settings.json"}]}
+{
+    "dots": [
+        {
+            "name": "zsh",
+            "loc": "/home/arc/.zshrc"
+        },
+        {
+            "name": "environment.d",
+            "loc": "/home/arc/.config/environment.d/firefox.conf"
+        },
+        {
+            "name": "vlc",
+            "loc": "/home/arc/.local/share/vlc/skyfire_v120.vlt"
+        },
+        {
+            "name": "vscode",
+            "loc": "/home/arc/.config/Code - Insiders/User/settings.json"
+        }
+    ]
+}
