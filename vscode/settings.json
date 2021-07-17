@@ -4,7 +4,7 @@
     "explorer.confirmDragAndDrop": false,
     "files.autoSave": "afterDelay",
     "github.copilot.enable": {
-        "*": true,
+        "*": false,
         "yaml": false,
         "plaintext": false,
         "markdown": false,
