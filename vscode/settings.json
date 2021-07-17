@@ -16,5 +16,12 @@
     "explorer.confirmDelete": false,
     "[crystal]": {
         "editor.defaultFormatter": "crystal-lang-tools.crystal-lang"
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
     }
 }

@@ -114,3 +114,5 @@ alias del="rm -rf"
 alias update="sudo powerpill -Syyu"
 alias gac="git add . && git commit -a -m "
 alias mkcd='foo(){ mkdir -p "$1"; cd "$1" }; foo '
+
+alias code="code-insiders"
