@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Dracula At Night",
+    "workbench.colorTheme": "blackbird",
     "editor.inlineSuggest.enabled": true,
     "explorer.confirmDragAndDrop": false,
     "files.autoSave": "afterDelay",
@@ -23,5 +23,6 @@
     "notebook.cellToolbarLocation": {
         "default": "right",
         "jupyter-notebook": "left"
-    }
+    },
+    "editor.insertSpaces": false
 }
